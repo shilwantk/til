@@ -1,7 +1,5 @@
 # Named Slices
 
-While using slices is well known - naming a slice is lesser known feature.
-
 The slice function takes 3 parameters - start, stop and step. `[start:stop:step]`.
 
 - `start` (optional) - Starting integer where the slicing of the object starts. Default to `None` if missing.
