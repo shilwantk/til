@@ -1,2 +1,3 @@
 # Kadane's Algorithm
 States that the local maximum at index i is the maximum of array[i] and the sum of array[i] and local maximum at index i-1.
+to find max
